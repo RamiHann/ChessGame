@@ -26,7 +26,7 @@ This project is an advanced implementation of chess using C++. It emphasizes the
 Clone the repository and compile the project using:
 
 ```bash
-git clone https://github.com/your-github-username/chess-project.git
+git clone https://github.com/RamiHann/ChessGame.git
 cd chess-project
 g++ -std=c++17 -o ChessGame *.cpp
 ./ChessGame
