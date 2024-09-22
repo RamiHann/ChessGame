@@ -54,5 +54,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 - Thank you to all contributors who have invested their time in improving this chess engine.
 - Special thanks to academic mentors and the online developer community for their continuous support and guidance.
 ```
-
-This README aims to provide a clear understanding of the project's scope, its technical underpinnings, how to get it running, and how others can contribute. Ensure to update the GitHub URL and other specific details as necessary. If there are other aspects or specific details you would like to highlight further, please let me know!
