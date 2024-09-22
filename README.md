@@ -25,7 +25,6 @@ This project is an advanced implementation of chess using C++. It emphasizes the
 
 Clone the repository and compile the project using:
 
-```bash
 git clone https://github.com/RamiHann/ChessGame.git
 cd chess-project
 g++ -std=c++17 -o ChessGame *.cpp
@@ -53,4 +52,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 - Thank you to all contributors who have invested their time in improving this chess engine.
 - Special thanks to academic mentors and the online developer community for their continuous support and guidance.
-```
